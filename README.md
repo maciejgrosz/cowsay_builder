@@ -7,14 +7,10 @@ It is adapted for course convenience.
 
 Important note: Deepak Chopra is a quack.
 
-## demo
-https://cowsay-node.herokuapp.com/
+## To run on localhost:
 
-## To run localy
+* use ``` bash init-cowsay.sh [PORT] ``` If port not specified it will run on localhost:8080
 
-(1) Make sure you have node & npm installed
-(2) Install all dependencies using "npm install"
-(3) Set PORT environment variable (if not set, 8080 will be used)
-(4) npm start
+
 
 Enjoy it. ^_____^ ..
